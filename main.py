@@ -1,8 +1,6 @@
 from engine3d import Engine3D, Cube3D, Triangle3D
-import numpy as np
-import math
-import random
 from tkinter import Tk, Canvas
+import random
 
 
 screenW = 640
